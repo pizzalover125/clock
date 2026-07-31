@@ -300,11 +300,11 @@ total time spent: 12 hours 10 minutes
 - created README
 - updated files
 
-# BUILD
+# BUILD; TOTAL: 6 hours
 
-### jun 29 (1 hour)
+### jun 29 (1.5 hours)
 - ok this is going to be hard to build
-- I LAPSEd me soldering the 7-segment display
+- I LAPSEd me soldering the 7-segment display (took 30 min)
 - i printed out the bottom part
 - realized the top part isn't compatible with bottom part
 - need to redesign
@@ -321,7 +321,7 @@ total time spent: 12 hours 10 minutes
 - the supports were impossible to remove
 - will reprint
 
-### july 9th (1 hour)
+### july 9th (1.5 hours)
 - i was a bit sidetracked from this project
 - time to lock in and actually build it :)
 - i got these stemma qt ports to make assembly easier
@@ -333,4 +333,42 @@ total time spent: 12 hours 10 minutes
 - LETS GO
 - soldered the wires
 - assembled it on a breadboard
+- made the firmware work
 - wow that took a while
+- ok ill do the rest another day
+
+### july 11th (2 hours)
+- i tried really hard to fit it all together
+- i put it together, then something would disconnect, then i would it put it back together, then it would disconnect again
+- ill just redesign it to be taller
+- printer not working?
+- i tried to fix the wifi settings 💀
+- still didn't work
+- ill just use SD card
+- redesign:
+
+<img width="411" height="239" alt="image" src="https://github.com/user-attachments/assets/08b456e4-4f2d-47ad-aed8-d76aecb171eb" />
+
+- ok hopefully ts works
+- IT WORKED OMG OMG OMG
+- im leaving for open sauce tomorrow so this was done right when I needed it to be
+- LETS GO
+
+<img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/f71afc30-4734-474e-9228-dce4e6e9d3f1" />
+
+### july 17th (1 hr)
+- this is from open sauce
+- the clock stopped working
+- need to fix it
+- opened it up
+- almost broke the screw 💀
+- ok thankfully it was just one wire that disconnected
+- will reconnect it!
+- ok it works!
+- im going to add multiple time controls so its better
+- done!
+- there are a bunch of new time controls now
+- im rlly proud of this project
+
+<img width="590" height="432" alt="View recent photos" src="https://github.com/user-attachments/assets/54bcbfa7-67e8-4ba5-a800-5106cf7d5052" />
+
